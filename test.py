@@ -1,6 +1,4 @@
 print("hello")
 
+print("hi hello")
 
-fhgfygjjk
-gfggghgh
-ffuggg
